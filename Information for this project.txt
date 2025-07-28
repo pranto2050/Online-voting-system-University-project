@@ -1,5 +1,13 @@
 
-
+Features
+Admin
+Login/Logout
+Manage Candidate
+Manage Voters
+Export Voters list to Excel
+View Canvassing Report
+Export Canvassing Report to Excel
+View System History log.
 
 
 How to Run
